@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(32, 33, 36, 0.692);
+  }
+
+h1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color:aliceblue;
+  font-size: 3.5rem;
+  text-align: center;
+}
+
+
+.caratulas{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+  
+.pelicula img{
+    height: 380px;
+    width:300px;
+
+  }
+  
